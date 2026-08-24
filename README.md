@@ -1,111 +1,177 @@
-# 👋 Hey, I'm YOUR_USERNAME!
+# Hey, I'm Ruban 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80;Building+Something+Awesome+%E2%9C%A8" alt="Typing SVG" />
+**Backend-focused developer | Java & Spring Boot | AI-curious | Builder**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</p>
+I like understanding how things actually work under the hood — APIs, authentication, databases, real-time systems, distributed architecture, AI pipelines, and the infrastructure around them.
 
-## 🚀 About Me
+I'm not trying to collect frameworks.
 
-- 💻 I'm a developer passionate about building things with code
-- 🌱 Currently learning **AI, Cloud & Full Stack Development**
-- 🔭 Working on exciting personal projects
-- 🎯 Goal: **Learn → Build → Share → Repeat**
-- ⚡ Fun fact: I love turning ideas into working projects
+I'm trying to **build systems that are worth understanding.**
+
+---
+
+## 🧑‍💻 About Me
+
+- 💻 Backend-focused developer working mainly with **Java & Spring Boot**
+- 🏗️ Interested in **system design, scalable backend architecture, and distributed systems**
+- ⚡ Building real-time applications with **WebSockets, STOMP & JWT**
+- 🤖 Exploring **AI engineering, LLMs, RAG, vector databases & local AI**
+- 🐳 Learning **Docker, DevOps, observability & cloud infrastructure**
+- 🌱 Currently expanding into **React, AI and modern backend infrastructure**
+- 🔨 I learn best by **building, breaking, debugging, and rebuilding**
+- 📚 Computer Science graduate
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Databases & Storage
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=flat-square&logo=qdrant&logoColor=white)
+
+### AI / Developer Tools
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🚧 What I'm Building
+
+I'm currently focused on projects that force me to learn beyond CRUD applications.
+
+### 💬 Real-Time Chat & Collaboration
+
+A real-time communication system built around:
+
+- Spring Boot
+- Spring Security
+- JWT + refresh tokens
+- WebSockets
+- STOMP
+- React
+- MySQL
+
+The goal isn't just to make messages appear on a screen.
+
+I'm using it to understand **authentication, connection lifecycle, messaging architecture, persistence, DTO design and real-time communication.**
+
+### 🤖 AI-Powered Habit Tracker
+
+A habit/productivity application exploring:
+
+- Gamification
+- Social accountability
+- Habit analytics
+- AI-assisted functionality
+- Vector search
+- LLM integration
+
+### ⚙️ Backend & Infrastructure Projects
+
+I'm also exploring projects around:
+
+- Task management systems
+- Secure file storage
+- Logging & metrics
+- DevOps automation
+- Distributed systems
+- AI/RAG architectures
+
+---
+
+## 🧠 Currently Learning
+
+```text
+System Design
+    ↓
+Distributed Systems
+    ↓
+Caching & Redis
+    ↓
+Microservices
+    ↓
+Docker & DevOps
+    ↓
+Observability
+    ↓
+AI / LLM Engineering
+    ↓
+RAG & Vector Databases
+```
+
+I'm especially interested in understanding **why a system is designed a certain way**, not just memorizing how to implement it.
+
+---
+
+## 🔬 Things I'm Exploring
+
+- Spring Cloud
+- Microservices
+- Redis & caching strategies
+- Message brokers
+- WebSocket architectures
+- Docker & containerization
+- CI/CD
+- Observability
+- LLM applications
+- RAG
+- Vector databases
+- Local AI with Ollama
+- AI-assisted development
+
+---
+
+## 📌 My Development Philosophy
+
+> **Learn → Build → Break → Debug → Understand → Repeat**
+
+I don't expect the first implementation to be perfect.
+
+I'd rather build something, hit a real problem, understand why it happened, and come out knowing more than I did before.
+
+---
+
+## 📈 GitHub
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruban-devx&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruban-devx&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,git,github,vscode,mongodb,mysql,docker,aws" />
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ruban-devx&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect
 
-<p align="center">
+If you're interested in backend engineering, system design, AI engineering, or building weird stuff just to figure out how it works, feel free to connect.
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🐍 My Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 💡 Quote
-
-> **"First, solve the problem. Then, write the code."** 💻
+**GitHub:** [@ruban-devx](https://github.com/ruban-devx)
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-## 🐍 My Contributions
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ruban-devx/ruban-devx/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ruban-devx/ruban-devx/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/ruban-devx/ruban-devx/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  <i>Still learning. Still building. Still breaking things.</i>
 </p>
