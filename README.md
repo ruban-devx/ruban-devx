@@ -87,15 +87,6 @@ Production:    Don't ask
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruban-devx&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruban-devx&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ### 🧑‍💻 One Last Thing
 
 I don't know everything.
