@@ -6,111 +6,58 @@ Professional bug creator
 Occasional bug fixer
 ```
 
-I write code, break things, Google the error, ask AI, question my life choices, blame the framework,
-fix it, and then pretend I knew the solution all along.
+I write code, break things, Google the error, ask AI, question my life choices, blame the framework, fix it, and then pretend I knew the solution all along.
 
 ---
 
-### 🧠 Currently Loading...
+### 🧠 Current Status
 
 - ☕ Turning caffeine into questionable architectural decisions
 - 🐛 Creating bugs with impressive consistency
-- 🔧 Fixing bugs with even more impressive inconsistency
+- 🔧 Fixing bugs with slightly less consistency
 - 🧩 Trying to understand why something works before touching it
 - 🐳 Putting things in Docker because "it works on my machine"
 - 🤖 Asking AI questions I could probably solve myself
 - 🏗️ Overengineering things that absolutely did not need it
 - 📚 Learning something new → forgetting something old
-- 📝 Documenting projects so Future Me doesn't have to reverse-engineer Past Me
 
 ---
 
-### 🛠️ My Daily Arsenal
+### 🛠️ Tech Stack
 
-```text
-Java        ███████████████████░░
-Spring      █████████████████░░░░
-SQL         ████████████████░░░░░
-JavaScript  ████████████░░░░░░░░░
-React       ██████████░░░░░░░░░░░
-Docker      ████████░░░░░░░░░░░░
-Linux       ███████████████░░░░░
-AI          ███████████░░░░░░░░░
-```
+**Languages**
 
-> Progress bars are scientifically accurate.
-> Trust me bro.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+**Backend**
 
-### 🤖 AI Sidekick
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-I use AI as part of my development workflow. Sometimes I'm writing the code. Sometimes I'm reviewing it. Sometimes I'm debugging it. And sometimes I explain an idea, discuss the architecture, and somehow end up with a working project sitting in front of me.
+**Frontend**
 
-```text
-Me:   "I have an idea..."
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-AI:   "Let's think about it."
+**Database & Infrastructure**
 
-      *a surprisingly long discussion later*
-
-AI:   "Implementation is ready."
-
-Me:   "Wait... we're already here?"
-```
-
-The important part is that **something eventually works.**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📚 Documentation Is Part of the Project
+### 🤖 How I Build
 
-I try to document my projects properly — not just the code, but the **why, how, decisions, setup, and lessons learned** behind them.
+I use AI for brainstorming, debugging, code reviews, and occasionally asking questions that I definitely could have Googled myself 🔍.
 
-Because six months from now, I would rather read documentation than stare at my own code and ask:
+I don't just copy-paste whatever it gives me though. I like knowing what the code is doing, why it works, and what I'm supposed to do when it inevitably breaks at 2 AM.
 
-> "Who wrote this?"
-
-...only to realize it was me.
-
-
-```text
-Build it
-   ↓
-Understand it
-   ↓
-Document it
-   ↓
-Forget how it works
-   ↓
-Read the documentation
-   ↓
-"Ahhh... right."
-```
-
-Good documentation is basically a message from **Past Me** to **Future Me**.
-
-Hopefully Past Me is helpful.
-
----
-
-### 💭 Developer Thoughts
-
-```java
-while (alive) {
-
-    learn();
-    build();
-    breakSomething();
-    debug();
-    learnAgain();
-
-}
-```
-
-Sometimes the solution is simple.
-
-Sometimes the solution is:
+Sometimes the solution is simple. Sometimes the solution is:
 
 ```bash
 rm -rf node_modules
@@ -118,34 +65,17 @@ npm install
 ```
 
 Sometimes that doesn't work either.
+Then we pray 🙏.
 
-Then we pray.
-
----
-
-### 🧪 Current Status
+I also document things 📝. Not because I'm extremely organized. Mostly because Future Me is going to look at Past Me's code and say:
 
 ```text
-[██████████████████░░] Compiling brain...
-
-Status:        Still learning
-Motivation:    Randomly generated
-Sleep:         Deprecated
-Coffee:        Required
-Bugs:          Feature-rich
-Documentation: "I'll do it properly this time"
-Production:    Don't ask
+"Bro... what the hell were you thinking?"
 ```
 
 ---
 
-### 🧑‍💻 One Last Thing
-
-I don't know everything.
-
-I just know how to open 37 browser tabs until I eventually figure it out.
-
-And if AI can help turn an idea into something real, I'm happy to use it — as long as I understand what we're building and can explain it afterward.
+### 💭 Developer Thoughts
 
 ```text
 git push
